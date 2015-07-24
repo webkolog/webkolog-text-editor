@@ -1,0 +1,12 @@
+c:\users\webkolog\documents\visual studio 2010\Projects\WebkologTextEditor\WebkologTextEditor\bin\Debug\WebkologTextEditor.exe.config
+c:\users\webkolog\documents\visual studio 2010\Projects\WebkologTextEditor\WebkologTextEditor\bin\Debug\WebkologTextEditor.exe
+c:\users\webkolog\documents\visual studio 2010\Projects\WebkologTextEditor\WebkologTextEditor\bin\Debug\WebkologTextEditor.pdb
+c:\users\webkolog\documents\visual studio 2010\Projects\WebkologTextEditor\WebkologTextEditor\obj\x86\Debug\WebkologTextEditor.Properties.Resources.resources
+c:\users\webkolog\documents\visual studio 2010\Projects\WebkologTextEditor\WebkologTextEditor\obj\x86\Debug\WebkologTextEditor.csproj.GenerateResource.Cache
+c:\users\webkolog\documents\visual studio 2010\Projects\WebkologTextEditor\WebkologTextEditor\obj\x86\Debug\WebkologTextEditor.exe
+c:\users\webkolog\documents\visual studio 2010\Projects\WebkologTextEditor\WebkologTextEditor\obj\x86\Debug\WebkologTextEditor.pdb
+C:\Users\webkolog\documents\visual studio 2010\Projects\WebkologTextEditor\WebkologTextEditor\obj\x86\Debug\WebkologTextEditor.csprojResolveAssemblyReference.cache
+C:\Users\webkolog\Documents\Visual Studio 2010\Projects\WebkologTextEditor\WebkologTextEditor\obj\x86\Debug\WebkologTextEditor.Form1.resources
+C:\Users\webkolog\Documents\Visual Studio 2010\Projects\WebkologTextEditor\WebkologTextEditor\obj\x86\Debug\WebkologTextEditor.AboutBox1.resources
+C:\Users\webkolog\Documents\Visual Studio 2010\Projects\WebkologTextEditor\WebkologTextEditor\obj\x86\Debug\WebkologTextEditor.findForm.resources
+C:\Users\webkolog\documents\visual studio 2010\Projects\WebkologTextEditor\WebkologTextEditor\obj\x86\Debug\WebkologTextEditor.replaceForm.resources
