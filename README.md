@@ -1,10 +1,10 @@
 # Webkolog Text Editor
 
-**Version:** 1.0 Final
+**Version:** 1.0.0.1 Final
 
 **Created Date:** 2015-07-24
 
-**Last Updated:** 2015-07-24
+**Last Updated:** 2015-08-13
 
 **Created By:** Ali Mantar (Ali Candan) ([@webkolog](https://github.com/webkolog))
 

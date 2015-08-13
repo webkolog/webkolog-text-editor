@@ -241,7 +241,7 @@ namespace WebkologTextEditor
                 tsmiCopy.Text = conf.GetValue("MNU_COPY");
                 tsmiPaste.Text = conf.GetValue("MNU_PASTE");
                 tsmiSelectAll.Text = conf.GetValue("MNU_SELALL");
-                toolsToolStripMenuItem.Text = conf.GetValue("MNU_FORMAT");
+                tsmiFormat.Text = conf.GetValue("MNU_FORMAT");
                 tsmiWordWrap.Text = conf.GetValue("MNU_WORDWRAP");
                 tsmiFont.Text = conf.GetValue("MNU_FONT");
                 tsmiView.Text = conf.GetValue("MNU_VIEW");
